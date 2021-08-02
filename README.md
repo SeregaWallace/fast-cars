@@ -1,6 +1,6 @@
 # fast-cars
-# Created by Serega Kordeluk
-# Technologies
+## Created by Serega Kordeluk
+## Technologies
 - JavaScript
 - HTML
 - CSS
