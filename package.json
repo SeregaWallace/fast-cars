@@ -1,0 +1,16 @@
+{
+  "name": "fast_cars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Serega Kordeluk-> (serega.wallace@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.7",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
